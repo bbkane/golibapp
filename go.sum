@@ -1,2 +1,4 @@
 github.com/bbkane/golib v0.0.0-20210223050618-f2ba57745902 h1:/C4YjL8kDckC4M4nSYDPRLSHTrEd3h4MFYCqt1yr7fk=
 github.com/bbkane/golib v0.0.0-20210223050618-f2ba57745902/go.mod h1:S1KqBqMfUN426OuAxCWGyyhpZK3XXjHrk6DXXfDP2lY=
+github.com/bbkane/golib v0.1.0 h1:EIcC6fkFBLYsACZJb7PeZ4/mZ+/fpMywqrRMxrjSDPo=
+github.com/bbkane/golib v0.1.0/go.mod h1:S1KqBqMfUN426OuAxCWGyyhpZK3XXjHrk6DXXfDP2lY=
